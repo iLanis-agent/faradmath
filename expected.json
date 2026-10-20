@@ -1,0 +1,1160 @@
+[
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "0.01",
+   "0.01"
+  ],
+  "expected": "A 0.01 \u00b5F capacitor at 0.01 V holds 0 \u00b5C of charge and 0 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "0.01",
+   "0.1"
+  ],
+  "expected": "A 0.1 \u00b5F capacitor at 0.01 V holds 0 \u00b5C of charge and 0 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "0.01",
+   "1"
+  ],
+  "expected": "A 1 \u00b5F capacitor at 0.01 V holds 0.01 \u00b5C of charge and 0 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "0.01",
+   "47"
+  ],
+  "expected": "A 47 \u00b5F capacitor at 0.01 V holds 0.47 \u00b5C of charge and 0 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "0.01",
+   "100"
+  ],
+  "expected": "A 100 \u00b5F capacitor at 0.01 V holds 1 \u00b5C of charge and 0 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "0.01",
+   "1000"
+  ],
+  "expected": "A 1000 \u00b5F capacitor at 0.01 V holds 10 \u00b5C of charge and 0 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "0.01",
+   "99999.99"
+  ],
+  "expected": "A 99999.99 \u00b5F capacitor at 0.01 V holds 1000 \u00b5C of charge and 0 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "0.01",
+   "100000"
+  ],
+  "expected": "A 100000 \u00b5F capacitor at 0.01 V holds 1000 \u00b5C of charge and 0.01 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1.5",
+   "0.01"
+  ],
+  "expected": "A 0.01 \u00b5F capacitor at 1.5 V holds 0.02 \u00b5C of charge and 0 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1.5",
+   "0.1"
+  ],
+  "expected": "A 0.1 \u00b5F capacitor at 1.5 V holds 0.15 \u00b5C of charge and 0 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1.5",
+   "1"
+  ],
+  "expected": "A 1 \u00b5F capacitor at 1.5 V holds 1.5 \u00b5C of charge and 0 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1.5",
+   "47"
+  ],
+  "expected": "A 47 \u00b5F capacitor at 1.5 V holds 70.5 \u00b5C of charge and 0.05 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1.5",
+   "100"
+  ],
+  "expected": "A 100 \u00b5F capacitor at 1.5 V holds 150 \u00b5C of charge and 0.11 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1.5",
+   "1000"
+  ],
+  "expected": "A 1000 \u00b5F capacitor at 1.5 V holds 1500 \u00b5C of charge and 1.13 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1.5",
+   "99999.99"
+  ],
+  "expected": "A 99999.99 \u00b5F capacitor at 1.5 V holds 149999.99 \u00b5C of charge and 112.5 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1.5",
+   "100000"
+  ],
+  "expected": "A 100000 \u00b5F capacitor at 1.5 V holds 150000 \u00b5C of charge and 112.5 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "5",
+   "0.01"
+  ],
+  "expected": "A 0.01 \u00b5F capacitor at 5 V holds 0.05 \u00b5C of charge and 0 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "5",
+   "0.1"
+  ],
+  "expected": "A 0.1 \u00b5F capacitor at 5 V holds 0.5 \u00b5C of charge and 0 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "5",
+   "1"
+  ],
+  "expected": "A 1 \u00b5F capacitor at 5 V holds 5 \u00b5C of charge and 0.01 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "5",
+   "47"
+  ],
+  "expected": "A 47 \u00b5F capacitor at 5 V holds 235 \u00b5C of charge and 0.59 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "5",
+   "100"
+  ],
+  "expected": "A 100 \u00b5F capacitor at 5 V holds 500 \u00b5C of charge and 1.25 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "5",
+   "1000"
+  ],
+  "expected": "A 1000 \u00b5F capacitor at 5 V holds 5000 \u00b5C of charge and 12.5 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "5",
+   "99999.99"
+  ],
+  "expected": "A 99999.99 \u00b5F capacitor at 5 V holds 499999.95 \u00b5C of charge and 1250 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "5",
+   "100000"
+  ],
+  "expected": "A 100000 \u00b5F capacitor at 5 V holds 500000 \u00b5C of charge and 1250 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "12",
+   "0.01"
+  ],
+  "expected": "A 0.01 \u00b5F capacitor at 12 V holds 0.12 \u00b5C of charge and 0 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "12",
+   "0.1"
+  ],
+  "expected": "A 0.1 \u00b5F capacitor at 12 V holds 1.2 \u00b5C of charge and 0.01 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "12",
+   "1"
+  ],
+  "expected": "A 1 \u00b5F capacitor at 12 V holds 12 \u00b5C of charge and 0.07 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "12",
+   "47"
+  ],
+  "expected": "A 47 \u00b5F capacitor at 12 V holds 564 \u00b5C of charge and 3.38 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "12",
+   "100"
+  ],
+  "expected": "A 100 \u00b5F capacitor at 12 V holds 1200 \u00b5C of charge and 7.2 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "12",
+   "1000"
+  ],
+  "expected": "A 1000 \u00b5F capacitor at 12 V holds 12000 \u00b5C of charge and 72 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "12",
+   "99999.99"
+  ],
+  "expected": "A 99999.99 \u00b5F capacitor at 12 V holds 1199999.88 \u00b5C of charge and 7200 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "12",
+   "100000"
+  ],
+  "expected": "A 100000 \u00b5F capacitor at 12 V holds 1200000 \u00b5C of charge and 7200 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "400",
+   "0.01"
+  ],
+  "expected": "A 0.01 \u00b5F capacitor at 400 V holds 4 \u00b5C of charge and 0.8 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "400",
+   "0.1"
+  ],
+  "expected": "A 0.1 \u00b5F capacitor at 400 V holds 40 \u00b5C of charge and 8 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "400",
+   "1"
+  ],
+  "expected": "A 1 \u00b5F capacitor at 400 V holds 400 \u00b5C of charge and 80 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "400",
+   "47"
+  ],
+  "expected": "A 47 \u00b5F capacitor at 400 V holds 18800 \u00b5C of charge and 3760 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "400",
+   "100"
+  ],
+  "expected": "A 100 \u00b5F capacitor at 400 V holds 40000 \u00b5C of charge and 8000 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "400",
+   "1000"
+  ],
+  "expected": "A 1000 \u00b5F capacitor at 400 V holds 400000 \u00b5C of charge and 80000 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "400",
+   "99999.99"
+  ],
+  "expected": "A 99999.99 \u00b5F capacitor at 400 V holds 39999996 \u00b5C of charge and 7999999.2 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "400",
+   "100000"
+  ],
+  "expected": "A 100000 \u00b5F capacitor at 400 V holds 40000000 \u00b5C of charge and 8000000 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1000",
+   "0.01"
+  ],
+  "expected": "A 0.01 \u00b5F capacitor at 1000 V holds 10 \u00b5C of charge and 5 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1000",
+   "0.1"
+  ],
+  "expected": "A 0.1 \u00b5F capacitor at 1000 V holds 100 \u00b5C of charge and 50 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1000",
+   "1"
+  ],
+  "expected": "A 1 \u00b5F capacitor at 1000 V holds 1000 \u00b5C of charge and 500 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1000",
+   "47"
+  ],
+  "expected": "A 47 \u00b5F capacitor at 1000 V holds 47000 \u00b5C of charge and 23500 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1000",
+   "100"
+  ],
+  "expected": "A 100 \u00b5F capacitor at 1000 V holds 100000 \u00b5C of charge and 50000 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1000",
+   "1000"
+  ],
+  "expected": "A 1000 \u00b5F capacitor at 1000 V holds 1000000 \u00b5C of charge and 500000 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1000",
+   "99999.99"
+  ],
+  "expected": "A 99999.99 \u00b5F capacitor at 1000 V holds 99999990 \u00b5C of charge and 49999995 mJ of energy."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1000",
+   "100000"
+  ],
+  "expected": "A 100000 \u00b5F capacitor at 1000 V holds 100000000 \u00b5C of charge and 50000000 mJ of energy."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "0.01",
+   "100",
+   "47"
+  ],
+  "expected": "100 \u00b5F and 47 \u00b5F in parallel act like 147 \u00b5F, holding 1.47 \u00b5C at 0.01 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "0.01",
+   "100",
+   "47"
+  ],
+  "expected": "100 \u00b5F and 47 \u00b5F in series act like 31.97 \u00b5F. At 0.01 V the pair carries 0.32 \u00b5C, with 0 V on the 100 \u00b5F one and 0.01 V on the 47 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "0.01",
+   "10",
+   "10"
+  ],
+  "expected": "10 \u00b5F and 10 \u00b5F in parallel act like 20 \u00b5F, holding 0.2 \u00b5C at 0.01 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "0.01",
+   "10",
+   "10"
+  ],
+  "expected": "10 \u00b5F and 10 \u00b5F in series act like 5 \u00b5F. At 0.01 V the pair carries 0.05 \u00b5C, with 0.01 V on the 10 \u00b5F one and 0.01 V on the 10 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "0.01",
+   "0.01",
+   "100000"
+  ],
+  "expected": "0.01 \u00b5F and 100000 \u00b5F in parallel act like 100000.01 \u00b5F, holding 1000 \u00b5C at 0.01 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "0.01",
+   "0.01",
+   "100000"
+  ],
+  "expected": "0.01 \u00b5F and 100000 \u00b5F in series act like 0.01 \u00b5F. At 0.01 V the pair carries 0 \u00b5C, with 0.01 V on the 0.01 \u00b5F one and 0 V on the 100000 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "0.01",
+   "220",
+   "330"
+  ],
+  "expected": "220 \u00b5F and 330 \u00b5F in parallel act like 550 \u00b5F, holding 5.5 \u00b5C at 0.01 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "0.01",
+   "220",
+   "330"
+  ],
+  "expected": "220 \u00b5F and 330 \u00b5F in series act like 132 \u00b5F. At 0.01 V the pair carries 1.32 \u00b5C, with 0.01 V on the 220 \u00b5F one and 0 V on the 330 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "0.01",
+   "1",
+   "0.5"
+  ],
+  "expected": "1 \u00b5F and 0.5 \u00b5F in parallel act like 1.5 \u00b5F, holding 0.02 \u00b5C at 0.01 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "0.01",
+   "1",
+   "0.5"
+  ],
+  "expected": "1 \u00b5F and 0.5 \u00b5F in series act like 0.33 \u00b5F. At 0.01 V the pair carries 0 \u00b5C, with 0 V on the 1 \u00b5F one and 0.01 V on the 0.5 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1.5",
+   "100",
+   "47"
+  ],
+  "expected": "100 \u00b5F and 47 \u00b5F in parallel act like 147 \u00b5F, holding 220.5 \u00b5C at 1.5 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "1.5",
+   "100",
+   "47"
+  ],
+  "expected": "100 \u00b5F and 47 \u00b5F in series act like 31.97 \u00b5F. At 1.5 V the pair carries 47.96 \u00b5C, with 0.48 V on the 100 \u00b5F one and 1.02 V on the 47 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1.5",
+   "10",
+   "10"
+  ],
+  "expected": "10 \u00b5F and 10 \u00b5F in parallel act like 20 \u00b5F, holding 30 \u00b5C at 1.5 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "1.5",
+   "10",
+   "10"
+  ],
+  "expected": "10 \u00b5F and 10 \u00b5F in series act like 5 \u00b5F. At 1.5 V the pair carries 7.5 \u00b5C, with 0.75 V on the 10 \u00b5F one and 0.75 V on the 10 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1.5",
+   "0.01",
+   "100000"
+  ],
+  "expected": "0.01 \u00b5F and 100000 \u00b5F in parallel act like 100000.01 \u00b5F, holding 150000.02 \u00b5C at 1.5 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "1.5",
+   "0.01",
+   "100000"
+  ],
+  "expected": "0.01 \u00b5F and 100000 \u00b5F in series act like 0.01 \u00b5F. At 1.5 V the pair carries 0.01 \u00b5C, with 1.5 V on the 0.01 \u00b5F one and 0 V on the 100000 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1.5",
+   "220",
+   "330"
+  ],
+  "expected": "220 \u00b5F and 330 \u00b5F in parallel act like 550 \u00b5F, holding 825 \u00b5C at 1.5 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "1.5",
+   "220",
+   "330"
+  ],
+  "expected": "220 \u00b5F and 330 \u00b5F in series act like 132 \u00b5F. At 1.5 V the pair carries 198 \u00b5C, with 0.9 V on the 220 \u00b5F one and 0.6 V on the 330 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1.5",
+   "1",
+   "0.5"
+  ],
+  "expected": "1 \u00b5F and 0.5 \u00b5F in parallel act like 1.5 \u00b5F, holding 2.25 \u00b5C at 1.5 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "1.5",
+   "1",
+   "0.5"
+  ],
+  "expected": "1 \u00b5F and 0.5 \u00b5F in series act like 0.33 \u00b5F. At 1.5 V the pair carries 0.5 \u00b5C, with 0.5 V on the 1 \u00b5F one and 1 V on the 0.5 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "5",
+   "100",
+   "47"
+  ],
+  "expected": "100 \u00b5F and 47 \u00b5F in parallel act like 147 \u00b5F, holding 735 \u00b5C at 5 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "5",
+   "100",
+   "47"
+  ],
+  "expected": "100 \u00b5F and 47 \u00b5F in series act like 31.97 \u00b5F. At 5 V the pair carries 159.86 \u00b5C, with 1.6 V on the 100 \u00b5F one and 3.4 V on the 47 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "5",
+   "10",
+   "10"
+  ],
+  "expected": "10 \u00b5F and 10 \u00b5F in parallel act like 20 \u00b5F, holding 100 \u00b5C at 5 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "5",
+   "10",
+   "10"
+  ],
+  "expected": "10 \u00b5F and 10 \u00b5F in series act like 5 \u00b5F. At 5 V the pair carries 25 \u00b5C, with 2.5 V on the 10 \u00b5F one and 2.5 V on the 10 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "5",
+   "0.01",
+   "100000"
+  ],
+  "expected": "0.01 \u00b5F and 100000 \u00b5F in parallel act like 100000.01 \u00b5F, holding 500000.05 \u00b5C at 5 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "5",
+   "0.01",
+   "100000"
+  ],
+  "expected": "0.01 \u00b5F and 100000 \u00b5F in series act like 0.01 \u00b5F. At 5 V the pair carries 0.05 \u00b5C, with 5 V on the 0.01 \u00b5F one and 0 V on the 100000 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "5",
+   "220",
+   "330"
+  ],
+  "expected": "220 \u00b5F and 330 \u00b5F in parallel act like 550 \u00b5F, holding 2750 \u00b5C at 5 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "5",
+   "220",
+   "330"
+  ],
+  "expected": "220 \u00b5F and 330 \u00b5F in series act like 132 \u00b5F. At 5 V the pair carries 660 \u00b5C, with 3 V on the 220 \u00b5F one and 2 V on the 330 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "5",
+   "1",
+   "0.5"
+  ],
+  "expected": "1 \u00b5F and 0.5 \u00b5F in parallel act like 1.5 \u00b5F, holding 7.5 \u00b5C at 5 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "5",
+   "1",
+   "0.5"
+  ],
+  "expected": "1 \u00b5F and 0.5 \u00b5F in series act like 0.33 \u00b5F. At 5 V the pair carries 1.67 \u00b5C, with 1.67 V on the 1 \u00b5F one and 3.33 V on the 0.5 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "100",
+   "47"
+  ],
+  "expected": "100 \u00b5F and 47 \u00b5F in parallel act like 147 \u00b5F, holding 1764 \u00b5C at 12 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "12",
+   "100",
+   "47"
+  ],
+  "expected": "100 \u00b5F and 47 \u00b5F in series act like 31.97 \u00b5F. At 12 V the pair carries 383.67 \u00b5C, with 3.84 V on the 100 \u00b5F one and 8.16 V on the 47 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "10",
+   "10"
+  ],
+  "expected": "10 \u00b5F and 10 \u00b5F in parallel act like 20 \u00b5F, holding 240 \u00b5C at 12 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "12",
+   "10",
+   "10"
+  ],
+  "expected": "10 \u00b5F and 10 \u00b5F in series act like 5 \u00b5F. At 12 V the pair carries 60 \u00b5C, with 6 V on the 10 \u00b5F one and 6 V on the 10 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "0.01",
+   "100000"
+  ],
+  "expected": "0.01 \u00b5F and 100000 \u00b5F in parallel act like 100000.01 \u00b5F, holding 1200000.12 \u00b5C at 12 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "12",
+   "0.01",
+   "100000"
+  ],
+  "expected": "0.01 \u00b5F and 100000 \u00b5F in series act like 0.01 \u00b5F. At 12 V the pair carries 0.12 \u00b5C, with 12 V on the 0.01 \u00b5F one and 0 V on the 100000 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "220",
+   "330"
+  ],
+  "expected": "220 \u00b5F and 330 \u00b5F in parallel act like 550 \u00b5F, holding 6600 \u00b5C at 12 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "12",
+   "220",
+   "330"
+  ],
+  "expected": "220 \u00b5F and 330 \u00b5F in series act like 132 \u00b5F. At 12 V the pair carries 1584 \u00b5C, with 7.2 V on the 220 \u00b5F one and 4.8 V on the 330 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "1",
+   "0.5"
+  ],
+  "expected": "1 \u00b5F and 0.5 \u00b5F in parallel act like 1.5 \u00b5F, holding 18 \u00b5C at 12 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "12",
+   "1",
+   "0.5"
+  ],
+  "expected": "1 \u00b5F and 0.5 \u00b5F in series act like 0.33 \u00b5F. At 12 V the pair carries 4 \u00b5C, with 4 V on the 1 \u00b5F one and 8 V on the 0.5 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "400",
+   "100",
+   "47"
+  ],
+  "expected": "100 \u00b5F and 47 \u00b5F in parallel act like 147 \u00b5F, holding 58800 \u00b5C at 400 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "400",
+   "100",
+   "47"
+  ],
+  "expected": "100 \u00b5F and 47 \u00b5F in series act like 31.97 \u00b5F. At 400 V the pair carries 12789.12 \u00b5C, with 127.89 V on the 100 \u00b5F one and 272.11 V on the 47 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "400",
+   "10",
+   "10"
+  ],
+  "expected": "10 \u00b5F and 10 \u00b5F in parallel act like 20 \u00b5F, holding 8000 \u00b5C at 400 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "400",
+   "10",
+   "10"
+  ],
+  "expected": "10 \u00b5F and 10 \u00b5F in series act like 5 \u00b5F. At 400 V the pair carries 2000 \u00b5C, with 200 V on the 10 \u00b5F one and 200 V on the 10 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "400",
+   "0.01",
+   "100000"
+  ],
+  "expected": "0.01 \u00b5F and 100000 \u00b5F in parallel act like 100000.01 \u00b5F, holding 40000004 \u00b5C at 400 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "400",
+   "0.01",
+   "100000"
+  ],
+  "expected": "0.01 \u00b5F and 100000 \u00b5F in series act like 0.01 \u00b5F. At 400 V the pair carries 4 \u00b5C, with 400 V on the 0.01 \u00b5F one and 0 V on the 100000 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "400",
+   "220",
+   "330"
+  ],
+  "expected": "220 \u00b5F and 330 \u00b5F in parallel act like 550 \u00b5F, holding 220000 \u00b5C at 400 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "400",
+   "220",
+   "330"
+  ],
+  "expected": "220 \u00b5F and 330 \u00b5F in series act like 132 \u00b5F. At 400 V the pair carries 52800 \u00b5C, with 240 V on the 220 \u00b5F one and 160 V on the 330 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "400",
+   "1",
+   "0.5"
+  ],
+  "expected": "1 \u00b5F and 0.5 \u00b5F in parallel act like 1.5 \u00b5F, holding 600 \u00b5C at 400 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "400",
+   "1",
+   "0.5"
+  ],
+  "expected": "1 \u00b5F and 0.5 \u00b5F in series act like 0.33 \u00b5F. At 400 V the pair carries 133.33 \u00b5C, with 133.33 V on the 1 \u00b5F one and 266.67 V on the 0.5 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1000",
+   "100",
+   "47"
+  ],
+  "expected": "100 \u00b5F and 47 \u00b5F in parallel act like 147 \u00b5F, holding 147000 \u00b5C at 1000 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "1000",
+   "100",
+   "47"
+  ],
+  "expected": "100 \u00b5F and 47 \u00b5F in series act like 31.97 \u00b5F. At 1000 V the pair carries 31972.79 \u00b5C, with 319.73 V on the 100 \u00b5F one and 680.27 V on the 47 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1000",
+   "10",
+   "10"
+  ],
+  "expected": "10 \u00b5F and 10 \u00b5F in parallel act like 20 \u00b5F, holding 20000 \u00b5C at 1000 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "1000",
+   "10",
+   "10"
+  ],
+  "expected": "10 \u00b5F and 10 \u00b5F in series act like 5 \u00b5F. At 1000 V the pair carries 5000 \u00b5C, with 500 V on the 10 \u00b5F one and 500 V on the 10 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1000",
+   "0.01",
+   "100000"
+  ],
+  "expected": "0.01 \u00b5F and 100000 \u00b5F in parallel act like 100000.01 \u00b5F, holding 100000010 \u00b5C at 1000 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "1000",
+   "0.01",
+   "100000"
+  ],
+  "expected": "0.01 \u00b5F and 100000 \u00b5F in series act like 0.01 \u00b5F. At 1000 V the pair carries 10 \u00b5C, with 1000 V on the 0.01 \u00b5F one and 0 V on the 100000 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1000",
+   "220",
+   "330"
+  ],
+  "expected": "220 \u00b5F and 330 \u00b5F in parallel act like 550 \u00b5F, holding 550000 \u00b5C at 1000 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "1000",
+   "220",
+   "330"
+  ],
+  "expected": "220 \u00b5F and 330 \u00b5F in series act like 132 \u00b5F. At 1000 V the pair carries 132000 \u00b5C, with 600 V on the 220 \u00b5F one and 400 V on the 330 \u00b5F one."
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1000",
+   "1",
+   "0.5"
+  ],
+  "expected": "1 \u00b5F and 0.5 \u00b5F in parallel act like 1.5 \u00b5F, holding 1500 \u00b5C at 1000 V."
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "1000",
+   "1",
+   "0.5"
+  ],
+  "expected": "1 \u00b5F and 0.5 \u00b5F in series act like 0.33 \u00b5F. At 1000 V the pair carries 333.33 \u00b5C, with 333.33 V on the 1 \u00b5F one and 666.67 V on the 0.5 \u00b5F one."
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "0",
+   "100"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "0",
+   "100",
+   "47"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "0",
+   "100",
+   "100"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1001",
+   "100"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1001",
+   "100",
+   "47"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "1001",
+   "100",
+   "100"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "12",
+   "0"
+  ],
+  "expected": "ERR:each capacitance must be from 0.01 to 100000 \u00b5F with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "0",
+   "47"
+  ],
+  "expected": "ERR:each capacitance must be from 0.01 to 100000 \u00b5F with at most two decimal places"
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "12",
+   "100",
+   "0"
+  ],
+  "expected": "ERR:each capacitance must be from 0.01 to 100000 \u00b5F with at most two decimal places"
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "12",
+   "100001"
+  ],
+  "expected": "ERR:each capacitance must be from 0.01 to 100000 \u00b5F with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "100001",
+   "47"
+  ],
+  "expected": "ERR:each capacitance must be from 0.01 to 100000 \u00b5F with at most two decimal places"
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "12",
+   "100",
+   "100001"
+  ],
+  "expected": "ERR:each capacitance must be from 0.01 to 100000 \u00b5F with at most two decimal places"
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "1.234",
+   "100"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "1.234",
+   "100",
+   "47"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "1.234",
+   "100",
+   "100"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "12",
+   "1.234"
+  ],
+  "expected": "ERR:each capacitance must be from 0.01 to 100000 \u00b5F with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "1.234",
+   "47"
+  ],
+  "expected": "ERR:each capacitance must be from 0.01 to 100000 \u00b5F with at most two decimal places"
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "12",
+   "100",
+   "1.234"
+  ],
+  "expected": "ERR:each capacitance must be from 0.01 to 100000 \u00b5F with at most two decimal places"
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "x",
+   "100"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "x",
+   "100",
+   "47"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "x",
+   "100",
+   "100"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "12",
+   ""
+  ],
+  "expected": "ERR:each capacitance must be from 0.01 to 100000 \u00b5F with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "12",
+   "",
+   "47"
+  ],
+  "expected": "ERR:each capacitance must be from 0.01 to 100000 \u00b5F with at most two decimal places"
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "12",
+   "100",
+   ""
+  ],
+  "expected": "ERR:each capacitance must be from 0.01 to 100000 \u00b5F with at most two decimal places"
+ },
+ {
+  "fn": "chargeTruth",
+  "args": [
+   "",
+   "100"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "parallelTruth",
+  "args": [
+   "",
+   "100",
+   "47"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ },
+ {
+  "fn": "seriesTruth",
+  "args": [
+   "",
+   "100",
+   "100"
+  ],
+  "expected": "ERR:the voltage must be from 0.01 to 1000 V with at most two decimal places"
+ }
+]
